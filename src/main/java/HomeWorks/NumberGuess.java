@@ -3,6 +3,7 @@ package HomeWorks;
 import java.util.Scanner;
 
 public class NumberGuess {
+
     public static int numGenerator(int digits) {
         StringBuilder number = new StringBuilder();
 

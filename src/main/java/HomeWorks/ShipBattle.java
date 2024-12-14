@@ -4,6 +4,7 @@ import java.util.*;
 
 public class ShipBattle {
 
+
     public static boolean canLocate(int x, int y, int direction, int shipType, int[][] seaMap) {
         if (direction == 0) {
             if (y + shipType > 10) return false;

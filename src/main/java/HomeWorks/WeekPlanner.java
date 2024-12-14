@@ -8,6 +8,7 @@ package HomeWorks;
 import java.util.Scanner;
 
 public class WeekPlanner {
+
     public WeekPlanner() {
     }
 
